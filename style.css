@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navber{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.menu{
+    flex: 1;
+    text-align: right;
+
+}
+.menu ul{
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+}
+.menu ul li{
+  display: inline-block;  
+  margin-left: 20px;
+  font-size: 20px;
+    
+    
+    
+}
+.menu ul li :hover {
+    text-decoration:none ;
+}
+a{
+    text-decoration: none;
+    color: #717171;
+}
+.logo img{
+    display: flex;
+    float: left;
+    width: 125px !important;
+    height: 40px;
+}
+.navber{
+    padding-left: 50px;
+    padding-right: 50px !important;
+}
+.container{
+    width: 100%;
+    
+   
+}
+.right img{
+    
+    width: 350px ;
+    height: 350px ;
+   
+}
+.main{
+    width: 100%;
+    height: 600px;
+    margin: auto !important;
+    padding-top: 200px;
+}
+header{
+    background: radial-gradient(#fff, #ffd6d6);
+}
+.btn{
+    background: #f13c09;
+    border-radius: 99px;
+}
+.btn:hover{
+
+    background: hsl(2, 93%, 47%);
+}
+.img img{
+    width: 300px;
+    height: 300px;
+    padding: 15px;
+    margin-left:100px ;
+
+}
+
+
+    
+
+
+h1{
+    
+    text-align: center;
+}
+hr{
+    width: 60px;
+    height: 4px;
+    background: crimson;
+    margin: auto;
+}
+.img1 img{
+    width: 200px;
+    height: 300px;
+    
+    
+    
+
+}
+.img1{
+    padding-left: 100px;
+    margin: 15px;
+    
+    transform: translate(0.5s);
+}
+h4{
+    font-size: 20px !important;
+    width: 200px;
+    height: 30px;
+    
+}
+.ratting .fa{
+    color: red;
+   
+   
+    font-size: 15px !important;
+}
+.ratting{
+    width: 300px;
+}
+.img1:hover{
+ transform: translateY(-5px);
+}
+.brand{
+    background: radial-gradient(#fff, #ffd6d6);
+    width: 100%;
+    height: 400px;
+}
+.brandimg img{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    
+    
+    
+}
+.brandt{
+    float: left;
+    padding-left: 150px;
+    
+    margin-top: 100px !important;
+}
+.btn{
+    border-radius: 99px;
+    background: #f13c09;
+}
+.brandt h1{
+    
+    text-align: left !important;
+}
+.brandimg{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.coment p{
+text-align: justify;
+}
+.icon i{
+    
+    font-size: 40px;
+    color: red;
+    
+    margin-left: 90px ;
+}
+.rat{
+    width: 300px;
+    margin-left: 50px;
+    color: red;
+}
+.image img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+.coment h5{
+    margin-left: 50px;
+}
+.cmt{
+    padding-left: 180px;
+    
+}
+.coment{
+    background: #F1F1F1;
+    margin: 20px;
+    transform: translate(0.5s);
+}
+.coment:hover{
+    transform: translateY(-5px);
+}
+.logo{
+    margin-left: 100px;
+}
+.logo img{
+    margin: 15px;
+}
+button p{
+    margin-bottom: 0 !important;
+    font-size: 10px;
+    margin-left: 0 !important;
+    
+}
+button h5{
+    font-size: 15px;
+    line-height: 0 !important;
+}
+.btni{
+    float: left;
+    margin-left: 4px;
+}
+.btnp{
+    float: left;
+}
+.imgl img{
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 60px;
+
+}
+.imgl{
+    text-align: justify;
+
+}
+.col-2 ul li{
+    list-style: none;
+}
+.bt{
+    margin-top: 60px;
+}
+.footer{
+    color: #fff;
+    background: black;
+}
